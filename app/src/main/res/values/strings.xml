@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="last_known_location">Last known location:</string>
+    <string name="delimiter">-</string>
+    <string name="connection_error">Ошибка соединения</string>
+    <string name="refresh">Перезагрузить</string>
+</resources>
